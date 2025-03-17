@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @EkamTheProgrammer
+- 👀 I’m interested in coding, Formula 1, and Basketball.
+- 🌱 I’m currently learning SwiftUI, Flutter (DART), and React.
+- 💞️ I’m looking to collaborate on small independent projects that make local changes!
+- 📫 Find me at www.teamekam.org, or email me at ekam@teamekam.org.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I started using GitHub 5 years after I began coding.
